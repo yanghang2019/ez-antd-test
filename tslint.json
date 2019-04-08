@@ -1,0 +1,6 @@
+{
+	"extends": "@ezbuy/tslint-config-ezbuy",
+	"linterOptions": {
+		"exclude": ["./lib/**/**", "./dist/**/**", "./node_modules/**/**"]
+	}
+}

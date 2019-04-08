@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://@ezbuy/ez-antd/./src/Component/Copy/styles.scss"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA","file":"main.min.css","sourcesContent":[".src-Component-Copy-styles_mln_2Jefg {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  display: -webkit-box;\n  -webkit-box-orient: vertical;\n  -webkit-line-clamp: 3;\n}\n"],"sourceRoot":""}

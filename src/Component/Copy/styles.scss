@@ -1,0 +1,4 @@
+@import "../../scss/fn";
+.mln {
+	@include mln(3);
+}
